@@ -25,7 +25,7 @@ github_username:  cmu-jollyroger
 
 # Build settings
 markdown: kramdown
-theme: minimal-mistakes-jekyll
+theme: minima
 plugins:
   - jekyll-feed
 
