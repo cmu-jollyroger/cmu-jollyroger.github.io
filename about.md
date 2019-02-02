@@ -4,15 +4,29 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+# Team members:
 
 
-[jekyll-organization]: https://github.com/jekyll
+### David Bang
+
+dbang@andrew.cmu.edu
+
+### Fiona Li
+
+siliangl@andrew.cmu.edu
+
+### Sara Misra
+
+saram1@andrew.cmu.edu
+
+### Haowen Shi
+<img src="/resource/people/haowen.jpeg" alt="Haowen@SF" width="50%" height="50%">
+
+haowensh@andrew.cmu.edu
+
+### Bo Tian
+
+btian1@andrew.cmu.edu
+
+
+[jekyll-organization]: https://github.com/cmu-jollyroger

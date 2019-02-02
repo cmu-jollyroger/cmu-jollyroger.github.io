@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Welcome to JollyRoger!"
+date:   2019-02-01 20:45:47 -0500
+---
+## Carnegie Mellon University 18-578 S19
+### Team A (JollyRoger)
+
+Hello world and **welcome** to our ship!
+
+We are a bunch of roboticists here at CMU taking mechatronics for our
+capstone design class. The goal of our project is to build a autonomous
+robot which could operate electromechanical devices on ships to reduce
+labor cost and risks associated with manual operations.
+
+To meet our team, please visit the "About" link above in the navigation bar.
